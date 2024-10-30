@@ -1,1 +1,1 @@
-# 38-Reat-ChatGPT-Clone-
+# ChatGPT-Clone-
